@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_OTO_fa fa-trash</name>
+   <tag></tag>
+   <elementGuidId>47a74a4b-f862-49ab-90a2-d46308309dc0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@onclick=&quot;deleteIt('STRCOL2023060980550')&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>e85207fb-a2c0-4fd6-abf7-852a717d53aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash</value>
+      <webElementGuid>f7de47d8-0872-49e2-adb5-ad1f17e1e48b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>deleteIt('STRCOL2023060980550')</value>
+      <webElementGuid>f6ce2699-5ebd-4ac0-b7a7-93f1cd53ad98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datalist&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[9]/i[@class=&quot;fa fa-trash&quot;]</value>
+      <webElementGuid>1e8d1b9f-0f7f-40ac-be0a-506f18a1b26c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@onclick=&quot;deleteIt('STRCOL2023060980550')&quot;]</value>
+      <webElementGuid>218f22db-1c25-406c-b1c9-53f5aa7e9ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datalist']/tbody/tr[3]/td[9]/i</value>
+      <webElementGuid>c6e26b69-2ea6-4811-84ab-34cb04cedb69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[9]/i</value>
+      <webElementGuid>ae09bff1-07cc-49c2-ad57-5e45c0b30d67</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

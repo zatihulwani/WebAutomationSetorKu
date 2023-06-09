@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC11-User tidak dapat menambahkan data pada detail upload bulk apabila pada kolom Amount diisi dengan lebih dari 5.000.000</name>
+   <tag>Negative Case</tag>
+   <comment></comment>
+   <testCaseGuid>4f30d629-aa7e-4633-b797-8ac240ad52a6</testCaseGuid>
+</TestCaseEntity>

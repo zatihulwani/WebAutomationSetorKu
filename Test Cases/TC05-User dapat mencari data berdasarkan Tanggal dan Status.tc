@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05-User dapat mencari data berdasarkan Tanggal dan Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cb6fb33a-da36-4757-841b-d635ff230afb</testCaseGuid>
+</TestCaseEntity>

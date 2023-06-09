@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Status --                        _01c146</name>
+   <tag></tag>
+   <elementGuidId>5074644d-56c8-479b-9da9-45602c0fedab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='status']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#status</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d115eb85-01c9-47ad-b038-9b52108c4392</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>5acad5f0-4451-4ef3-b1a7-9599a4c902d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>status</value>
+      <webElementGuid>29461910-c02b-4e60-98f3-9aae981072f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>07fa1cc9-da58-468c-8d38-6208bb4cec00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                -- Status --
+                                                Generated
+                                                Waiting
+                                                Cancel
+                                            </value>
+      <webElementGuid>317dc3da-7d29-4931-97d2-2a98417790f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;status&quot;)</value>
+      <webElementGuid>6a845e6a-5231-4014-9e91-21d2dbd8aefd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='status']</value>
+      <webElementGuid>22492a88-7297-4619-802a-e4d5038ade17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SetorKu > Upload Bulk'])[1]/following::select[1]</value>
+      <webElementGuid>9d485436-4b3e-48ba-8e58-a215a6221294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Bulk'])[1]/following::select[1]</value>
+      <webElementGuid>82dd901d-cb4d-4c3d-9b43-c2852f1fd260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::select[1]</value>
+      <webElementGuid>aea35fbb-98fe-47f3-b46c-0f1e4599fd69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing...'])[1]/preceding::select[1]</value>
+      <webElementGuid>00a5d88d-9b82-4070-95d7-610ab7b65d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>690bd927-f8a6-4795-9b3d-f0e2b3c6dbe2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'status' and @id = 'status' and (text() = '
+                                                -- Status --
+                                                Generated
+                                                Waiting
+                                                Cancel
+                                            ' or . = '
+                                                -- Status --
+                                                Generated
+                                                Waiting
+                                                Cancel
+                                            ')]</value>
+      <webElementGuid>11c1bcc2-6476-4046-93ed-d1abfff9edb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

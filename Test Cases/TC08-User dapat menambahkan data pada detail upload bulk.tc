@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC08-User dapat menambahkan data pada detail upload bulk</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f77fb8ff-d7b8-4a71-96da-13f365ba620a</testCaseGuid>
+</TestCaseEntity>

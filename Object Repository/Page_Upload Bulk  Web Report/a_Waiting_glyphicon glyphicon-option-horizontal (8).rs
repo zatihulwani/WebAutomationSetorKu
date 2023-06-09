@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Waiting_glyphicon glyphicon-option-horizontal (8)</name>
+   <tag></tag>
+   <elementGuidId>23bb9736-b200-4074-8a2d-23f1683cb51b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='datalist']/tbody/tr/td[9]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.glyphicon.glyphicon-option-horizontal</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27601461-288c-40f4-b2e4-78f9707c48f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dev140.ids.id:93/Setorku/upload-detail-1737-OTO_MDN_Aku123_090623072108-OTO</value>
+      <webElementGuid>0a5b6f5a-ab84-4f20-8c3d-cf71ab738c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>glyphicon glyphicon-option-horizontal</value>
+      <webElementGuid>4406448b-bb93-41b3-85a5-5d88b2cd3c2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;datalist&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[9]/a[@class=&quot;glyphicon glyphicon-option-horizontal&quot;]</value>
+      <webElementGuid>9bf5a564-7b47-4cde-aa26-27f1b50df9a3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='datalist']/tbody/tr/td[9]/a</value>
+      <webElementGuid>ab5d93c9-69b4-4b9a-9fd6-8e1c078a9f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dev140.ids.id:93/Setorku/upload-detail-1737-OTO_MDN_Aku123_090623072108-OTO')]</value>
+      <webElementGuid>81860020-0f6e-4a35-a10a-e5d6acaf53a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[9]/a</value>
+      <webElementGuid>86da69a7-89ef-4b67-abb4-de1ee1f407a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dev140.ids.id:93/Setorku/upload-detail-1737-OTO_MDN_Aku123_090623072108-OTO']</value>
+      <webElementGuid>ff72198f-caf6-4367-983b-0fb7b492c608</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

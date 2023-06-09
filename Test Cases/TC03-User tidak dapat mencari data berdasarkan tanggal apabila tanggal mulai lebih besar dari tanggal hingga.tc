@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03-User tidak dapat mencari data berdasarkan tanggal apabila tanggal mulai lebih besar dari tanggal hingga</name>
+   <tag>Negative Case</tag>
+   <comment></comment>
+   <testCaseGuid>e42baa4f-2ff1-47f9-b1aa-146b8c1c7e56</testCaseGuid>
+</TestCaseEntity>

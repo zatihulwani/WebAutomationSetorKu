@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SetorKu</name>
+   <tag></tag>
+   <elementGuidId>0b7b48d7-6196-408f-9bf5-bb9e0544e795</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='main_menu']/nav/ul/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ml-10.padded.hoverWhite.select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ca73452-71aa-47a9-a287-14852f63c6a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-10 padded hoverWhite select</value>
+      <webElementGuid>9b985ec6-d07a-4024-b276-78a041c91182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SetorKu</value>
+      <webElementGuid>d5c9707f-d6bc-4062-8791-10552425c10a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_menu&quot;)/nav[@class=&quot;navbar&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/div[@class=&quot;dropdown clickableParent padded&quot;]/a[1]/span[@class=&quot;ml-10 padded hoverWhite select&quot;]</value>
+      <webElementGuid>691f0c3f-d829-4558-a802-b05ac35ca604</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='main_menu']/nav/ul/div/a/span</value>
+      <webElementGuid>f1b3fa2a-9d4a-4535-af92-a8d349454f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DASHBOARD'])[1]/following::span[1]</value>
+      <webElementGuid>b5e3035e-ab00-4508-9f1e-5821b140cec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oto Finance Medan - 01'])[2]/following::span[1]</value>
+      <webElementGuid>df5fd362-aefb-4d81-825c-846a79551508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bulk Upload'])[1]/preceding::span[1]</value>
+      <webElementGuid>8c8c223d-720f-471e-8008-90361f078ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi Partner'])[1]/preceding::span[2]</value>
+      <webElementGuid>4d4f5ad9-33d0-46a1-9a24-9fec8bc37c71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SetorKu']/parent::*</value>
+      <webElementGuid>d158ba87-2815-468d-89d2-653e8c69d6b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/span</value>
+      <webElementGuid>cd30e88c-a96a-4cc8-9dd0-5b656bafb0f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SetorKu' or . = 'SetorKu')]</value>
+      <webElementGuid>e80c61d9-9d5e-421a-bdc1-330457c01a39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Add Data</name>
+   <tag></tag>
+   <elementGuidId>35002795-037b-4b79-b753-77e00665ff54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@type='button'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-4.box-tools.pull-left > a.btn.btn-success.btn-sm</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>75463aec-5c3d-487c-aed7-02441094e458</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>20882c2f-4ee1-4192-a6f1-120dd27f5a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e6a8ad53-fce4-4ebe-99a6-94c4cc91c229</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-sm</value>
+      <webElementGuid>4c37d757-4cbb-46d4-b064-7f9b2792cd9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>modal</value>
+      <webElementGuid>1b897d79-1f3c-48a3-b408-c8fc5ee40fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#modal-right</value>
+      <webElementGuid>7c424d45-a8d0-44f9-b80b-2399b23484a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Data</value>
+      <webElementGuid>0e25892f-6fd8-4b8a-83d8-1da7ccce5201</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;fixed skin-yellow sidebar-mini sidebar-mini-expand-feature&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content pt-0 mt-40&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xl-12 col-12&quot;]/div[@class=&quot;box&quot;]/div[@class=&quot;box-body pt-15&quot;]/div[@class=&quot;chart&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4 box-tools pull-left&quot;]/a[@class=&quot;btn btn-success btn-sm&quot;]</value>
+      <webElementGuid>dbefa2d0-a86d-4ca2-a11d-c3cf050420a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@type='button'])[2]</value>
+      <webElementGuid>af16833c-449e-4f2f-9ef3-463aaa912330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Data')]</value>
+      <webElementGuid>b7346819-1d06-4314-8627-40405fc8a7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Name'])[1]/following::a[1]</value>
+      <webElementGuid>5d54283d-1860-4bff-92ac-4d1ebbe5bc57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail Upload Bulk'])[1]/following::a[1]</value>
+      <webElementGuid>e79f6b49-981e-4e8b-85a7-5cef3906c5a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search:'])[1]/preceding::a[1]</value>
+      <webElementGuid>4ccc4f92-1203-4d3b-ae3d-a4ee048e5e0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Data']/parent::*</value>
+      <webElementGuid>77c72662-15bc-4e36-98a4-1001262c96ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[4]</value>
+      <webElementGuid>7410d521-9a6b-4e15-8ce3-3ddba100a082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>71a810fc-f189-464e-9bf8-81efe63380bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @type = 'button' and (text() = 'Add Data' or . = 'Add Data')]</value>
+      <webElementGuid>c6ba5a11-8ac1-4da4-8037-a06c21c07d14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

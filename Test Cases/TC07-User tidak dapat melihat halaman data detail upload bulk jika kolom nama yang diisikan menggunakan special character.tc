@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC07-User tidak dapat melihat halaman data detail upload bulk jika kolom nama yang diisikan menggunakan special character</name>
+   <tag>Negative Case</tag>
+   <comment></comment>
+   <testCaseGuid>b977ebb9-4574-4bac-b0f9-33f974fac59e</testCaseGuid>
+</TestCaseEntity>
