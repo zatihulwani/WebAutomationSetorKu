@@ -23,9 +23,9 @@ WebUI.click(findTestObject('Page_Dashboard  Web Report/span_SetorKu'))
 
 WebUI.click(findTestObject('Page_Dashboard  Web Report/span_Bulk Upload'))
 
-WebUI.click(findTestObject('Page_Upload Bulk  Web Report/a_2'))
+WebUI.click(findTestObject('Page_Upload Bulk  Web Report/a_2 (3)'))
 
-WebUI.click(findTestObject('Page_Upload Bulk  Web Report/a_Waiting_glyphicon glyphicon-option-horizontal'))
+WebUI.click(findTestObject('Page_Upload Bulk  Web Report/a_Waiting_glyphicon glyphicon-option-horizontal (8)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Detail Upload Bulk  Web Report/a_Add Data'))
 

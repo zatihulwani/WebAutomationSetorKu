@@ -17,15 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://dev140.ids.id:93/auth/login')
-
-WebUI.setText(findTestObject('Page_Solusipay Admin/input_User_email'), 'oto011')
-
-WebUI.setEncryptedText(findTestObject('Page_Solusipay Admin/input_Password_password'), '7hpJmdzDyuw=')
-
-WebUI.click(findTestObject('Page_Solusipay Admin/button_SIGN IN'))
+WebUI.callTestCase(findTestCase('TC01-Login dan User dapat melihat halaman Upload Bulk'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Page_Dashboard  Web Report/span_SetorKu'))
 
